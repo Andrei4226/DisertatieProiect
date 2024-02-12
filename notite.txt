@@ -1,27 +1,22 @@
-Accesare server:
+Accessing the server:
 
 - cd server
 - node server.js
 
-Accesare client:
+Accessing the client:
 
 - cd client
 - npm start
 
+Opening the project in Visual Studio Code and then installing the following packages:
 
-Deschidem proiectul in Visual Studio Code apoi instalam urmatoarele pachete:
+In the client directory (cd client):
+- npm install
 
- - In client(cd client):
-	npm install
+In the server directory (cd server):
+- npm install multer
 
- - In server(cd server):
-	npm install multer
-
- - In proiectul principal:
-	npm install @emailjs/browser --save
-	npm install axios
-	npm install express
-
-
-
-
+In the main project:
+- npm install @emailjs/browser --save
+- npm install axios
+- npm install express
