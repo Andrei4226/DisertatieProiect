@@ -11,6 +11,7 @@ The platform is built on a Single Page Application web architecture, ensuring ac
 - **React**: Frontend JavaScript library for building user interfaces.
 - **JavaScript**: Programming language for both frontend and backend development.
 - **CSS**: Styling language for designing the user interface.
+- **HTML**: Markup language for structuring web pages.
 - **Express**: Web framework for Node.js used for routing and middleware.
 
 # Key Features:
