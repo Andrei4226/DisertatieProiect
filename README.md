@@ -6,6 +6,13 @@ This web application facilitates student enrollment in dissertation projects. It
 # Platform
 The platform is built on a Single Page Application web architecture, ensuring accessibility across various devices including desktop browsers, mobile phones, and tablets, tailored to user preferences.
 
+## Technologies Used
+- **Node.js**: Backend server environment.
+- **React**: Frontend JavaScript library for building user interfaces.
+- **JavaScript**: Programming language for both frontend and backend development.
+- **CSS**: Styling language for designing the user interface.
+- **Express**: Web framework for Node.js used for routing and middleware.
+
 # Key Features:
 
 - User Roles: The application supports two types of users - students and professors.
